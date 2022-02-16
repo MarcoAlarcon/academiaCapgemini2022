@@ -7,7 +7,7 @@ Neste repositório se encontra meu código para o desafio do programa Academia C
 A linguagem utilizada no script para esse teste foi a linguagem python, então antes de prosseguir com o restante das intruções, verifique se o python esa instalado na sua máquina.
 Se não tiver o python instalado na máquina, baixe e instale para poder dar continuidade: https://www.python.org/downloads/
 
-Após a instalação do python na sua máquina, baixe o repositório e execute o arquivo desafioCapgemini.py, mas lembre-se de deixar todos os arquivos na mesma máquina, pois o progroma usa OOP, se os arquivos estiverem espalhados, a importação de uma função para o funcionamento do script irá falhar.
+Após a instalação do python na sua máquina, baixe o repositório e execute o arquivo desafioCapgemini.py em algum IDE de sua preferência, mas lembre-se de deixar todos os arquivos na mesma máquina, pois o progroma usa OOP, se os arquivos estiverem espalhados, a importação de uma função para o funcionamento do script irá falhar.
 
 <h1> Questão 03 - feedback </h3>
 
